@@ -33,7 +33,7 @@ For my projects, I use a PC with the following specs:
 - **Cooling**: 240mm Water Cooler
 - **GPU**: GTX 1660 Ti
 - **Fans**: 4 fans
-- **Operating System**: Windows 10 Pro (optimized for performance)
+- **Operating System**: I use Arch btw
 
 ## 🎧 My Interests
 
