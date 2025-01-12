@@ -1,6 +1,13 @@
 # Hello! I'm Russian95 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic developer from Curitiba, focused on optimizations, customizations, and innovation in operating systems, game development, and software. Here you will find some of my main projects, each reflecting my commitment to quality, efficiency, and the constant pursuit of a smoother user experience.
+Welcome to my GitHub profile! I'm an enthusiastic developer from Curitiba, currently working on the **Inferno Engine**, a highly optimized 3D game engine. In addition to my work on game development, I focus on optimizations, customizations, and innovations in operating systems and software. Here you will find some of my main projects, each reflecting my commitment to quality, efficiency, and the constant pursuit of a smoother user experience.
+
+## 🔥 Currently Working On
+
+### **[Inferno Engine](#)**
+I’m currently developing **Inferno Engine**, a 3D game engine optimized for performance and designed to push the boundaries of what’s possible in real-time graphics. It’s built with OpenGL and focuses on a highly efficient raycasting engine. Stay tuned for more updates!
+
+---
 
 ## 🚀 Featured Projects
 
