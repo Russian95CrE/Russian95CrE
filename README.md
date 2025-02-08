@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an enthusiastic developer from Curitiba, curre
 ## 🔥 Currently Working On
 
 ### **[Xylon](#)**
-I’m currently developing **Xylon**, a 3D game engine optimized for performance and designed to push the boundaries of what’s possible in real-time graphics. It’s built with OpenGL and focuses on a highly efficient raycasting engine. Stay tuned for more updates! I am making the Engine with isaquemota, and me.
+I’m currently developing **Xylon**, a 3D game engine optimized for performance and designed to push the boundaries of what’s possible in real-time graphics. It’s built with OpenGL and focuses on a highly efficient raycasting engine. Stay tuned for more updates! I am making the Engine with isaquemota, trypr0x and me.
 
 ---
 
