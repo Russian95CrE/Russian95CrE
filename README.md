@@ -6,16 +6,19 @@
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 ![Profile Views](https://komarev.com/ghpvc/?username=russian95cre&color=brightgreen)
 
-I'm a graphics programmer from Brazil, currently working on **Vortox** - a next-generation 3D game engine. I'm passionate about high-performance computing and real-time graphics.
+I'm a graphics programmer from Brazil, currently working on **Vinitix** - a experimental x86_64 operating system.
 
 ## 🔥 Currently Working On
 
-### **Vortox** ![Active](https://img.shields.io/badge/Status-Active-success)
+### **Vortox** ![Uncertain](https://img.shields.io/badge/Status-Uncertain-lightgrey)
 A modern, high-performance 3D game engine built with C++ that focuses on:
 - Advanced rendering techniques using OpenGL (Vulkan support in development)
 - Data-oriented design for optimal performance
-- Modern graphics features including PBR and real-time global illumination
-- Collaborative development with [@isaquemota](https://github.com/isaquemota)
+
+### **Vinitix** ![Active](https://img.shields.io/badge/Status-Active-success)
+A modern, minimal OS, that actually works, built in x86 ASM and C that focuses on:
+- Native legacy DOS compatibility layer (SoulDOS)
+- And many other things to come later!
 
 ---
 
