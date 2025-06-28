@@ -50,7 +50,7 @@ GPU    │ GIGABYTE RX 7600 OC
 RAM    │ 16GB DDR4 3200MHz
 MOBO   │ ASUS A520M-E
 STORAGE│ 1TB NVMe SSD + 2TB HDD
-OS     │ Arch Linux
+OS     │ EndeavourOS
 ```
 
 ## 🎧 My Interests
