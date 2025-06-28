@@ -55,7 +55,7 @@ OS     │ Arch Linux
 
 ## 🎧 My Interests
 
-Aside from development, I have a passion for electronic music, especially tracks that blend energy and creativity. Some of my favorite tracks include **Dimrain47 - Operation Evolution** and **Linkin Park - In The End**. These tunes keep me going through long coding sessions and brainstorming marathons.
+Aside from development, I have a passion for electronic music, especially tracks that blend energy and creativity. Some of my favorite tracks include **Nirvana - Smells Like Teen Spirit** and **Three Days Grace - Animal I Have Become**. These tunes keep me going through long coding sessions and brainstorming marathons.
 
 ## 🌱 What I'm Currently Learning
 
