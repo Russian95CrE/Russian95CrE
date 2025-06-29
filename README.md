@@ -72,6 +72,18 @@ Aside from development, I have a passion for electronic music, especially tracks
 - **Languages**: English, Portuguese
 - **Timezone**: UTC-3 (São Paulo)
 
+## 📜 About my license
+
+All my projects are licensed under the **FREES Permissive License (FPL)**:
+
+- You are free to use, modify, and redistribute the code, including for commercial purposes.
+- You **cannot** redistribute modified or derivative works in closed-source (binary-only) form **without explicit, written permission** from the author.
+- You may not use the author’s or contributors’ names to promote derived products without permission.
+
+What does FREES mean? It stands for **Fights Restrictions, Embraces and Encourages Sharing**.
+
+For legal details, contact me directly at `russian95@infernointeractive.win`.
+
 ---
 
 <div align="center">
