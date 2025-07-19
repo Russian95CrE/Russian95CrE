@@ -78,6 +78,6 @@ Aside from development, I have a passion for electronic music, especially tracks
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=russian95cre&show_icons=true&theme=dark)
 
-© 2024 Russian95. All rights reserved.
+© 2025 Russian95. All rights reserved.
 
 </div>
