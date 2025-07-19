@@ -6,7 +6,7 @@
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 ![Profile Views](https://komarev.com/ghpvc/?username=russian95cre&color=brightgreen)
 
-I'm a graphics programmer from Brazil, currently working on **Vintix** - a experimental x86_64 operating system.
+I'm a graphics programmer from Brazil, currently working on **Wind/Tempest** - a experimental x86_64 operating system.
 
 ## 🔥 Currently Working On
 
@@ -15,7 +15,7 @@ A modern, high-performance 3D game engine built with C++ that focuses on:
 - Advanced rendering techniques using OpenGL (Vulkan support in development)
 - Data-oriented design for optimal performance
 
-### **Vintix** ![Active](https://img.shields.io/badge/Status-Active-success)
+### **Wind/Tempest** ![Active](https://img.shields.io/badge/Status-Active-success)
 A modern, minimal OS, that actually works, built in x86 ASM and C that focuses on:
 - Native legacy DOS compatibility layer (SoulDOS)
 - And many other things to come later!
