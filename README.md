@@ -1,9 +1,8 @@
 # Hello! I'm Russian95 👋
 
 [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)](https://www.opengl.org/)
-[![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=flat&logo=vulkan)](https://www.vulkan.org/)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.c-language.org/)
 ![Profile Views](https://komarev.com/ghpvc/?username=russian95cre&color=brightgreen)
 
 I'm a graphics programmer from Brazil, currently working on **Wind/Tempest** - a experimental x86_64 operating system.
