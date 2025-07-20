@@ -11,7 +11,7 @@ I'm a graphics programmer from Brazil, currently working on **Wind/Tempest** - a
 
 ### **Vortox** ![Uncertain](https://img.shields.io/badge/Status-Uncertain-lightgrey)
 A modern, high-performance 3D game engine built with C++ that focuses on:
-- Advanced rendering techniques using OpenGL (Vulkan support in development)
+- Advanced rendering techniques using OpenGL
 - Data-oriented design for optimal performance
 
 ### **Wind/Tempest** ![Active](https://img.shields.io/badge/Status-Active-success)
