@@ -67,7 +67,7 @@ Aside from development, I have a passion for electronic music, especially tracks
 > [!IMPORTANT]
 > I do not respond to emails in between 1:00 PM to 6:50 PM.
 
-- **Email**: russian95@infernointeractive.win
+- **Email**: russian95@tempestfoundation.org
 - **Languages**: English, Portuguese
 - **Timezone**: UTC-3 (São Paulo)
 
