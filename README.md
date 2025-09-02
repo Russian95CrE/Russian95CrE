@@ -15,9 +15,7 @@ A modern, high-performance 3D game engine built with C++ that focuses on:
 - Data-oriented design for optimal performance
 
 ### **Wind/Tempest** ![Active](https://img.shields.io/badge/Status-Active-success)
-A modern, minimal OS, that actually works, built in x86 ASM and C that focuses on:
-- Native legacy DOS compatibility layer (SoulDOS)
-- And many other things to come later!
+A modern, minimal OS, that actually works, built in x86 ASM and C that focuses in fast performance and minimal code.
 
 ## 💻 Tech Stack
 - **Languages**: C++17/20, GLSL, Python, JavaScript
